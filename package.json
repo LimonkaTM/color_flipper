@@ -1,0 +1,14 @@
+{
+  "name": "color_flipper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "noty": "^3.2.0-beta-deprecated"
+  }
+}
